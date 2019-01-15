@@ -1,0 +1,1240 @@
+﻿Log file open, 01/14/19 16:43:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BeerPongBowling
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-915762839) SRandInit(-915762839).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.187508
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/FMODStudio - UE4/Binaries/Win64/UE4Editor-FMODStudio.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/FMODStudio - UE4/Binaries/Win64/UE4Editor-FMODStudioEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin FMODStudio
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.14-23.43.19:636][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.14-23.43.19:636][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.14-23.43.19:648][  0]LogInit: Computer: INSYTHOR
+[2019.01.14-23.43.19:648][  0]LogInit: User: Tyler
+[2019.01.14-23.43.19:648][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.14-23.43.19:648][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.01.14-23.43.19:649][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.14-23.43.19:649][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.14-23.43.19:649][  0]LogMemory: Process Physical Memory: 271.47 MB used, 271.48 MB peak
+[2019.01.14-23.43.19:649][  0]LogMemory: Process Virtual Memory: 269.59 MB used, 269.59 MB peak
+[2019.01.14-23.43.19:649][  0]LogMemory: Physical Memory: 4035.92 MB used,  12287.00 MB free, 16322.92 MB total
+[2019.01.14-23.43.19:649][  0]LogMemory: Virtual Memory: 4777.23 MB used,  12287.00 MB free, 134217728.00 MB total
+[2019.01.14-23.43.19:940][  0]LogInit: Using OS detected language (en-US).
+[2019.01.14-23.43.19:940][  0]LogInit: Using OS detected locale (en-CA).
+[2019.01.14-23.43.19:944][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.14-23.43.20:331][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.14-23.43.20:675][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.14-23.43.20:742][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.01.14-23.43.20:742][  0]LogD3D11RHI:       6052/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.01.14-23.43.20:745][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.14-23.43.20:745][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.14-23.43.20:745][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.14-23.43.20:751][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.14-23.43.20:751][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.14-23.43.20:751][  0]LogWindows: EnumDisplayDevices:
+[2019.01.14-23.43.20:751][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.01.14-23.43.20:752][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.01.14-23.43.20:752][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.01.14-23.43.20:752][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.01.14-23.43.20:752][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.01.14-23.43.20:752][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.01.14-23.43.20:752][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.01.14-23.43.20:753][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.01.14-23.43.20:753][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.01.14-23.43.20:795][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.14-23.43.20:814][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.14-23.43.20:962][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (Z:/Unreal/BeerPongBowling 4.21/Intermediate/Shaders/WorkingDirectory/364/).
+[2019.01.14-23.43.20:962][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tyler/AppData/Local/Temp/UnrealShaderWorkingDir/EAFB6FBE4496FF0BEADB67A4EFB2B2AE/'.
+[2019.01.14-23.43.20:962][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.14-23.43.21:979][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.14-23.43.22:074][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.14-23.43.22:163][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.14-23.43.22:248][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.14-23.43.22:334][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.14-23.43.22:420][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.14-23.43.22:505][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.14-23.43.22:591][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.14-23.43.22:669][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.14-23.43.22:751][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.01.14-23.43.22:834][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.01.14-23.43.22:916][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.01.14-23.43.22:998][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.01.14-23.43.23:080][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.01.14-23.43.23:272][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.01.14-23.43.23:272][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.01.14-23.43.23:365][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.14-23.43.23:439][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.14-23.43.23:581][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.14-23.43.23:624][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.14-23.43.23:711][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.14-23.43.23:792][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.14-23.43.23:876][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.14-23.43.23:958][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.14-23.43.23:958][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.14-23.43.24:819][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.14-23.43.24:905][  0]LogDerivedDataCache: Loaded boot cache 0.08s 80MB C:/Users/Tyler/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.01.14-23.43.24:905][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tyler/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2019.01.14-23.43.24:905][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file Z:/Unreal/BeerPongBowling 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.14-23.43.24:905][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.14-23.43.24:905][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file Z:/Unreal/BeerPongBowling 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.14-23.43.24:905][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.14-23.43.24:919][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.14-23.43.24:932][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tyler/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.14-23.43.24:941][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.14-23.43.24:942][  0]LogSlate: Using Freetype 2.6.0
+[2019.01.14-23.43.24:943][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.14-23.43.24:943][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.14-23.43.25:312][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.14-23.43.25:836][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.14-23.43.25:913][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.14-23.43.25:913][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.14-23.43.25:913][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.14-23.43.25:913][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.01.14-23.43.25:913][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.01.14-23.43.25:954][  0]LogNetVersion: BeerPongBowling , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 467138842)
+[2019.01.14-23.43.26:180][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2019.01.14-23.43.26:843][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 2 prioritized culture(s) in 0.056977 seconds
+[2019.01.14-23.43.26:848][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2019.01.14-23.43.26:848][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2019.01.14-23.43.26:848][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.14-23.43.26:954][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2019.01.14-23.43.31:006][  0]LogFMOD: FFMODStudioModule startup
+[2019.01.14-23.43.31:006][  0]LogFMOD:  Lib path = '../../../Engine/Plugins/FMODStudio - UE4/Binaries'
+[2019.01.14-23.43.31:006][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio - UE4/Binaries/Win64/fmodL64.dll
+[2019.01.14-23.43.31:017][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio - UE4/Binaries/Win64/fmodstudioL64.dll
+[2019.01.14-23.43.31:072][  0]LogFMOD: Loading strings bank: Z:/Unreal/BeerPongBowling 4.21/Content/FMOD/Desktop/Master Bank.strings.bank
+[2019.01.14-23.43.31:074][  0]LogFMOD: Error: f:\jk\workspace\1.10_UE4.18_Win64\studio_api\src\fmod_bankmodel.cpp(163) - Failed to open file 'Z:/Unreal/BeerPongBowling 4.21/Content/FMOD/Desktop/Master Bank.strings.bank'
+
+[2019.01.14-23.43.31:074][  0]LogFMOD: Warning: Failed to load strings bank: Z:/Unreal/BeerPongBowling 4.21/Content/FMOD/Desktop/Master Bank.strings.bank
+[2019.01.14-23.43.31:082][  0]LogFMOD: Default sample rate = 48000
+[2019.01.14-23.43.31:082][  0]LogFMOD: System sample rate = 44100
+[2019.01.14-23.43.31:082][  0]LogFMOD: Matching system sample rate 44100
+[2019.01.14-23.43.31:108][  0]LogFMOD: Default sample rate = 48000
+[2019.01.14-23.43.31:108][  0]LogFMOD: System sample rate = 44100
+[2019.01.14-23.43.31:108][  0]LogFMOD: Matching system sample rate 44100
+[2019.01.14-23.43.31:173][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.14-23.43.31:237][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.14-23.43.32:358][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2019.01.14-23.43.33:078][  0]SourceControl: Source control is disabled
+[2019.01.14-23.43.34:637][  0]LogFMOD: FFMODStudioEditorModule startup
+[2019.01.14-23.43.35:266][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.14-23.43.35:735][  0]LogOcInput: OculusInput pre-init called
+[2019.01.14-23.43.36:245][  0]LogEngine: Initializing Engine...
+[2019.01.14-23.43.36:248][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.14-23.43.36:475][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.14-23.43.36:475][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.14-23.43.36:703][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.14-23.43.36:723][  0]LogInit: XAudio2 using 'Speakers (2- EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2019.01.14-23.43.36:739][  0]LogInit: FAudioDevice initialized.
+[2019.01.14-23.43.37:075][  0]LogDerivedDataCache: Saved boot cache 0.34s 78MB C:/Users/Tyler/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2019.01.14-23.43.37:098][  0]LogInit: Texture streaming: Enabled
+[2019.01.14-23.43.37:290][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.14-23.43.37:551][  0]LogInit: Transaction tracking system initialized
+[2019.01.14-23.43.38:130][  0]BlueprintLog: New page: Editor Load
+[2019.01.14-23.43.39:813][  0]LocalizationService: Localization service is disabled
+[2019.01.14-23.43.41:158][  0]LogConsoleResponse: Display: 
+[2019.01.14-23.43.41:414][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.14-23.43.41:414][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.14-23.43.41:414][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.14-23.43.42:404][  0]LogFileCache: Scanning file cache for directory 'Z:/Unreal/BeerPongBowling 4.21/Content/' took 0.01s
+[2019.01.14-23.43.43:558][  0]Cmd: MAP LOAD FILE="Z:/Unreal/BeerPongBowling 4.21/Content/RollingBP/Maps/RollingBPExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.14-23.43.43:595][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.14-23.43.52:381][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.14-23.43.52:384][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.14-23.43.52:384][  0]LightingResults: New page: Lighting Build
+[2019.01.14-23.43.52:462][  0]MapCheck: New page: Map Check
+[2019.01.14-23.43.52:462][  0]LightingResults: New page: Lighting Build
+[2019.01.14-23.43.52:474][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.14-23.43.52:477][  0]LoadErrors: New page: New Map
+[2019.01.14-23.43.52:664][  0]LogCollectionManager: Loaded 0 collections in 0.002578 seconds
+[2019.01.14-23.43.52:786][  0]LogFileCache: Scanning file cache for directory 'Z:/Unreal/BeerPongBowling 4.21/Saved/Collections/' took 0.01s
+[2019.01.14-23.43.52:786][  0]LogFileCache: Scanning file cache for directory 'Z:/Unreal/BeerPongBowling 4.21/Content/Developers/Tyler/Collections/' took 0.01s
+[2019.01.14-23.43.52:786][  0]LogFileCache: Scanning file cache for directory 'Z:/Unreal/BeerPongBowling 4.21/Content/Collections/' took 0.01s
+[2019.01.14-23.43.52:786][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.14-23.43.52:794][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2380 classes and 526 folders.
+[2019.01.14-23.43.52:912][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.14-23.43.52:962][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.14-23.43.53:040][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.01.14-23.43.53:058][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.14-23.43.53:063][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.14-23.43.53:183][  0]LogRenderer: Reallocating scene render targets to support 1804x888 Format 10 NumSamples 1 (Frame:1).
+[2019.01.14-23.43.53:386][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.14-23.43.53:386][  0]LogLoad: (Engine Initialization) Total time: 37.03 seconds
+[2019.01.14-23.43.53:386][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.14-23.43.53:386][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2019.01.14-23.43.53:411][  0]LogAssetRegistry: Asset discovery search completed in 27.2538 seconds
+[2019.01.14-23.43.53:413][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.01.14-23.43.53:413][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2019.01.14-23.43.53:416][  0]SourceControl: On branch master
+[2019.01.14-23.43.53:416][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2019.01.14-23.43.53:416][  0]SourceControl: Changes to be committed:
+[2019.01.14-23.43.53:416][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/Blueprints/BP_ActivateBridge.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	new file:   Content/Blueprints/Platforms/BP_ActivateBridge.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	new file:   Content/Meshes/FunnelFixed.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: Changes not staged for commit:
+[2019.01.14-23.43.53:416][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2019.01.14-23.43.53:416][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   BeerPongBowling.uproject
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Config/DefaultEngine.ini
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/Blueprints/BP_BoostPad.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/Blueprints/BP_BowlingPins.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/Blueprints/BP_Coin.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/Blueprints/BP_Pushers.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/Blueprints/BP_Twomp.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/Blueprints/Gear.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/Blueprints/Platforms/BP_ActivateBridge.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/Blueprints/TrackSpline.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/Meshes/FunnelFixed.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/RollingBP/Blueprints/PhysicsBallBP.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/RollingBP/Maps/RollingBPExampleMap.umap
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/StarterContent/Architecture/Floor_400x400.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/StarterContent/Materials/M_Basic_Wall.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/StarterContent/Materials/M_CobbleStone_Rough.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Content/StarterContent/Particles/Materials/M_Burst.uasset
+[2019.01.14-23.43.53:416][  0]SourceControl: 	deleted:    Intermediate/AssetRegistryCache/12424d50.bin
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/1d5167fa.bin
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/1f683343.bin
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/2657c409.bin
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/44c3f9c9.bin
+[2019.01.14-23.43.53:416][  0]SourceControl: 	deleted:    Intermediate/AssetRegistryCache/4b08fa99.bin
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/52ed2538.bin
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/5a627529.bin
+[2019.01.14-23.43.53:416][  0]SourceControl: 	deleted:    Intermediate/AssetRegistryCache/7088d2e9.bin
+[2019.01.14-23.43.53:416][  0]SourceControl: 	deleted:    Intermediate/AssetRegistryCache/7f1f1a70.bin
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/866581fd.bin
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/8c0e1344.bin
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/94c5d5a7.bin
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/bf121eca.bin
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/cef2e191.bin
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/AssetRegistryCache/f0d5030c.bin
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Editor.ini
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini
+[2019.01.14-23.43.53:416][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2019.01.14-23.43.53:417][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Game.ini
+[2019.01.14-23.43.53:417][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini
+[2019.01.14-23.43.53:417][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Hardware.ini
+[2019.01.14-23.43.53:417][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Input.ini
+[2019.01.14-23.43.53:417][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Intermediate/Config/CoalescedSourceConfigs/MagicLeapEmulator.ini
+[2019.01.14-23.43.53:417][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Scalability.ini
+[2019.01.14-23.43.53:417][  0]SourceControl: 	modified:   Intermediate/ReimportCache/3688439234.bin
+[2019.01.14-23.43.53:417][  0]SourceControl: 	modified:   Saved/AutoScreenshot.png
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Blueprints/BeerPong_Cup_Auto4.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Blueprints/Chasers/BP_BallChaser_Auto3.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Blueprints/JumpSpline_Auto0.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Blueprints/JumpSpline_Auto4.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Blueprints/JumpSpline_Auto9.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Blueprints/Material__25_Auto4.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Blueprints/Platforms/Platform_Negative_Auto3.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Blueprints/Platforms/Platform_Positive_Auto3.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/BoosterPad_Auto3.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/BowlingBall1_Auto4.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/FlatPlane_Auto1.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/Material__25_Auto2.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/Material__2_Auto2.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/Material__37_Auto4.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/_4K_Metal19/Metal19_col_Auto3.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/_4K_Metal19/Metal19_disp_Auto3.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/_4K_Metal19/Metal19_met_Auto3.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/_4K_Metal19/Metal19_nrm_Auto3.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/_4K_Metal19/Metal19_rgh_Auto3.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/boost_Auto3.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/coin_Auto3.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/coin_Auto4.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/cupTexture_Auto2.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/cup_Auto2.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/gear_Auto2.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/godCoin_Auto3.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/godCoin_Auto4.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Meshes/metal_Auto2.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Rolling/Materials/M_Blue_Checker_Auto9.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/RollingBP/Blueprints/PhysicsBallBP_Auto2.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/RollingBP/Blueprints/PhysicsBallBP_Auto3.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	modified:   Saved/Autosaves/Game/RollingBP/Blueprints/PhysicsBallBP_Auto4.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/RollingBP/Blueprints/PhysicsBallBP_Auto7.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/RollingBP/Blueprints/PhysicsBallBP_Auto8.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_Auto0.umap
+[2019.01.14-23.43.53:417][  0]SourceControl: 	modified:   Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_Auto1.umap
+[2019.01.14-23.43.53:417][  0]SourceControl: 	modified:   Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_Auto2.umap
+[2019.01.14-23.43.53:417][  0]SourceControl: 	modified:   Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_Auto3.umap
+[2019.01.14-23.43.53:417][  0]SourceControl: 	modified:   Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_Auto4.umap
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_Auto5.umap
+[2019.01.14-23.43.53:417][  0]SourceControl: 	modified:   Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_Auto6.umap
+[2019.01.14-23.43.53:417][  0]SourceControl: 	modified:   Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_Auto7.umap
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_Auto8.umap
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_Auto9.umap
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_BuiltData_Auto1.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_BuiltData_Auto2.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_BuiltData_Auto3.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/RollingBP/Maps/RollingBPExampleMap_BuiltData_Auto5.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Sounds/Boost_Sound_Auto4.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Sounds/Brass_Fanfare_Auto4.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Sounds/Coin_Auto4.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Sounds/Death_Auto4.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Sounds/Possible_Restart_Sound__Auto4.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/Sounds/Wall_Hit_Auto4.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/StarterContent/Materials/M_Basic_Wall_Auto9.uasset
+[2019.01.14-23.43.53:417][  0]SourceControl: 	deleted:    Saved/Autosaves/Game/StarterContent/Particles/Materials/M_Burst_Auto3.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/1M_Cube_2019-01-11-09-47-55.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BP_ActivateBridge_2019-01-13-14-24-44.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BP_ActivateBridge_2019-01-13-14-48-33.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BP_BallChaser_2019-01-13-12-16-40.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BP_BallChaser_2019-01-13-13-12-41.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BP_BallChaser_2019-01-13-13-27-02.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BP_BoostPad_2019-01-13-14-48-33.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BP_BowlingPins_2019-01-13-14-14-58.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BP_BowlingPins_2019-01-13-14-30-21.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BP_Coin_2019-01-13-14-31-16.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BP_Pushers_2019-01-13-13-54-25.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BP_Pushers_2019-01-13-14-09-54.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BP_Twomp_2019-01-13-12-01-18.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BP_Twomp_2019-01-13-12-11-18.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BallChaser_TriggerCollision_2019-01-13-12-25-30.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BallMesh_2019-01-11-14-48-17.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BaseMaterial_2019-01-11-19-22-38.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BeerPong_Cup_2019-01-11-11-03-29.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BeerPong_Cup_2019-01-11-11-11-44.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BeerPong_Cup_2019-01-13-10-55-09.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BeerPong_Cup_2019-01-13-13-22-07.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BoosterPad_2019-01-13-12-08-03.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BoosterPad_2019-01-13-13-12-40.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BoosterPad_2019-01-13-14-39-27.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BowlingBall1_2019-01-13-14-06-25.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BowlingBallTex_2019-01-13-13-56-38.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BowlingBallTex_2019-01-13-14-11-30.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BowlingBallTex_2019-01-13-14-52-25.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BowlingLane_2019-01-13-12-31-29.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/BowlingLane_2019-01-13-13-03-03.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/Bowlingalley2_2019-01-13-12-59-21.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/Bowlingalley2_2019-01-13-13-05-20.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/FlatPlane_2019-01-11-19-22-38.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/FlatPlane_2019-01-11-19-58-17.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/FlatPlane_2019-01-11-20-20-09.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/FlatPlane_2019-01-11-22-58-08.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/Floor_400x400_2019-01-10-21-39-25.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/Gear_2019-01-11-09-40-44.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/Gear_2019-01-11-09-49-21.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/Gear_2019-01-11-09-54-39.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/Gear_2019-01-11-10-13-00.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/Gear_2019-01-11-10-22-25.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/Gear_2019-01-11-10-27-57.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/Gear_2019-01-11-11-39-27.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/Gear_2019-01-11-21-56-40.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/Gear_2019-01-11-22-20-48.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/Gear_2019-01-11-22-36-57.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/Gear_2019-01-13-10-33-37.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/Gear_2019-01-13-10-38-47.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/Gear_2019-01-13-10-44-01.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/Gear_2019-01-13-10-52-29.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-17-54-53.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-18-00-48.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-18-09-20.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-18-15-05.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-18-20-16.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-18-26-31.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-18-32-16.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-18-51-33.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-18-59-30.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-19-05-05.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-19-17-58.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-19-26-37.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-19-33-14.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-19-41-45.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-19-47-03.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-19-55-39.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-20-03-01.uasset
+[2019.01.14-23.43.53:418][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-20-22-41.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-20-28-24.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-20-34-31.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-20-40-02.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-20-45-47.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-20-52-13.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-20-58-41.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-21-04-00.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-21-09-43.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-21-16-12.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-21-21-32.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-21-26-43.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-21-31-43.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-21-37-21.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-21-42-44.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-21-51-36.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-22-05-34.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-22-11-30.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-22-16-51.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-22-34-29.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-22-41-08.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-22-46-40.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-22-51-49.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/JumpSpline_2019-01-11-22-56-57.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/Jump_Data_2019-01-11-18-07-27.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/Jump_Data_2019-01-11-18-20-13.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/Jump_Data_2019-01-11-19-26-35.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/M_Basic_Wall_2019-01-11-18-36-33.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/M_Basic_Wall_2019-01-11-19-22-38.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/M_Blue_Checker_2019-01-11-18-36-32.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/M_Blue_Checker_2019-01-11-19-22-38.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/M_Burst_2019-01-13-13-12-41.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/M_Burst_2019-01-13-14-39-39.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/M_CobbleStone_Rough_2019-01-13-14-48-33.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/M_Wood_Floor_Walnut_Polished_2019-01-13-14-48-33.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/Material__26_2019-01-13-12-52-35.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/Metal1_2019-01-13-12-39-29.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/Metal1_2019-01-13-13-06-48.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/MovingPad2_2019-01-11-12-35-09.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/MovingPad2_2019-01-11-12-40-11.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/MovingPad2_2019-01-11-12-45-32.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/MovingPad2_2019-01-11-12-50-58.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/MovingPad_2019-01-11-11-48-13.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/MovingPad_2019-01-11-11-55-27.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/MovingPad_2019-01-11-12-00-27.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/MovingPad_2019-01-11-12-06-10.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/MovingPad_2019-01-11-12-11-10.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/MovingPad_2019-01-11-12-16-16.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/MovingPad_2019-01-11-12-21-31.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/MovingPad_2019-01-11-12-33-48.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/MovingPad_2019-01-11-12-40-55.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/MovingPad_2019-01-11-12-47-57.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/MovingPad_2019-01-11-12-55-51.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/MovingPad_Negative_2019-01-11-12-56-56.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/MovingPad_Positive_2019-01-11-12-56-56.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-10-23-12-04.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-10-23-17-33.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-10-23-25-02.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-10-32-29.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-13-32-19.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-13-42-23.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-13-49-07.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-13-56-11.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-14-03-47.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-14-10-05.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-14-15-26.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-14-28-03.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-14-33-34.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-14-38-44.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-14-44-26.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-14-49-29.uasset
+[2019.01.14-23.43.53:419][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-14-55-35.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-15-01-58.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-15-07-04.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-15-14-17.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-15-20-29.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-15-25-34.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-15-32-01.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-15-43-40.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-15-49-18.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-16-03-22.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-16-08-54.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-16-17-44.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-16-23-45.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-16-29-01.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-16-35-25.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-16-41-13.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-16-49-13.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-16-54-46.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-17-02-19.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-17-09-55.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-17-20-26.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-11-18-07-11.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-13-11-00-07.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-13-13-20-06.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-13-13-32-09.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-13-14-00-32.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/PhysicsBallBP_2019-01-13-14-05-41.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/Pin1_2019-01-13-14-15-16.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/Piston_pistonArm_2019-01-13-14-11-18.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/Piston_pistonArm_2019-01-13-14-20-25.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/Platform_Negative_2019-01-11-15-57-53.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/Platform_Negative_2019-01-13-13-12-40.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/Platform_Negative_2019-01-13-13-32-57.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/Platform_Positive_2019-01-11-15-57-54.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/Platform_Positive_2019-01-13-13-12-40.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/Platform_Positive_2019-01-13-13-29-01.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RestartLevel_2019-01-13-14-29-17.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RoadMesh_2019-01-13-14-40-24.uasset
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-10-21-53-50.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-10-22-10-53.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-10-22-24-00.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-10-22-38-57.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-10-22-56-30.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-10-23-06-03.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-10-23-12-07.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-10-23-27-19.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-09-45-16.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-09-51-06.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-09-58-02.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-10-08-22.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-10-18-33.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-10-27-59.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-10-34-57.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-10-40-21.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-10-49-30.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-11-03-28.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-11-10-41.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-11-25-49.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-11-31-57.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-11-37-35.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-11-48-15.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-11-54-42.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-12-05-30.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-12-16-19.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-12-21-58.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-12-33-21.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-12-56-26.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-13-23-09.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-13-28-17.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-13-38-30.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-13-51-15.umap
+[2019.01.14-23.43.53:420][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-14-04-20.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-14-15-25.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-14-30-38.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-14-50-38.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-15-01-39.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-15-14-17.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-15-32-41.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-15-43-40.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-15-51-28.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-16-00-06.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-16-06-08.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-16-17-44.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-16-32-38.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-16-47-31.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-16-56-09.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-17-07-57.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-17-21-18.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-17-26-47.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-17-41-38.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-17-50-30.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-18-04-52.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-18-22-23.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-18-36-32.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-19-05-18.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-19-14-32.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-19-22-37.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-19-41-44.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-19-47-38.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-19-55-41.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-20-04-20.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-20-10-09.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-20-23-21.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-20-31-01.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-20-41-05.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-20-46-10.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-20-52-50.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-20-58-18.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-21-15-00.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-21-43-32.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-22-05-34.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-22-11-31.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-22-22-15.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-11-22-58-08.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-10-27-01.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-10-54-29.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-11-05-36.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-11-10-58.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-11-16-40.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-11-24-33.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-11-45-10.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-11-59-49.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-12-09-30.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-12-19-24.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-12-24-39.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-13-12-39.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-13-18-00.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-13-29-05.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-13-35-03.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-13-41-57.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-14-00-32.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-14-07-41.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-14-15-41.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-14-24-01.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-14-29-57.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-14-35-07.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-14-40-25.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_2019-01-13-14-48-26.umap
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-10-21-53-50.uasset
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-10-22-10-53.uasset
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-10-22-24-01.uasset
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-10-22-38-57.uasset
+[2019.01.14-23.43.53:421][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-10-22-56-32.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-10-23-06-03.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-10-23-12-07.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-09-50-05.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-09-55-08.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-10-27-59.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-10-34-57.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-10-40-22.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-10-49-31.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-11-10-42.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-11-25-49.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-11-31-57.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-11-37-35.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-11-48-15.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-11-54-42.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-12-16-19.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-12-21-58.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-12-33-21.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-12-57-18.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-13-23-09.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-13-28-17.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-13-54-03.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-14-04-20.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-14-35-16.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-15-14-18.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-15-32-41.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-15-51-29.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-16-00-06.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-16-06-09.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-16-32-38.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-16-56-10.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-17-09-57.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-17-21-19.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-17-26-48.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-17-50-30.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-18-04-52.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-18-22-23.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-19-05-18.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-19-14-32.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-19-47-38.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-19-55-41.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-20-04-21.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-20-10-10.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-20-23-21.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-20-31-01.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-20-41-06.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-20-46-10.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-20-52-50.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-20-58-19.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-21-43-32.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-11-22-11-32.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-11-05-37.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-11-10-59.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-11-16-40.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-11-24-34.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-11-45-11.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-11-59-49.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-12-09-31.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-12-19-24.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-12-24-40.uasset
+[2019.01.14-23.43.53:422][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-13-17-04.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-13-29-05.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-13-35-04.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-13-41-58.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-14-03-38.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-14-08-40.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-14-15-41.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-14-24-01.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-14-29-58.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-14-35-07.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-14-40-26.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-14-48-26.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/TurboPad_2019-01-13-12-09-36.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/arr1_2019-01-13-13-45-51.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/arr2_2019-01-13-13-45-50.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/arrt2_2019-01-13-13-46-22.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/arrt_2019-01-13-13-46-11.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/godcoinx_2019-01-13-14-32-01.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Backup/mcArrow_2019-01-13-13-48-12.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-1BC65E1B483DEE86B4904B9E2C5B0276/CrashReportClient.ini
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-20CCFD0F473474E147FFC58E88434481/CrashReportClient.ini
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-4813BA7D496034A4E519F2B8320F1230/CrashReportClient.ini
+[2019.01.14-23.43.53:423][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2019.01.14-23.43.53:423][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2019.01.14-23.43.53:423][  0]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2019.01.14-23.43.53:423][  0]SourceControl: 	modified:   Saved/Config/Windows/GameUserSettings.ini
+[2019.01.14-23.43.53:423][  0]SourceControl: 	modified:   Saved/Config/WorldState/2284859621.json
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Logs/BeerPongBowling-backup-2019.01.11-09.26.56.log
+[2019.01.14-23.43.53:423][  0]SourceControl: 	deleted:    Saved/Logs/BeerPongBowling-backup-2019.01.13-17.13.35.log
+[2019.01.14-23.43.53:423][  0]SourceControl: 	modified:   Saved/Logs/BeerPongBowling.log
+[2019.01.14-23.43.53:423][  0]SourceControl: Untracked files:
+[2019.01.14-23.43.53:423][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Intermediate/AssetRegistryCache/2f5244c7.bin
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Intermediate/AssetRegistryCache/50d6f4e0.bin
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Intermediate/AssetRegistryCache/941566a1.bin
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Intermediate/AssetRegistryCache/ba1c9cc5.bin
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Intermediate/Config/CoalescedSourceConfigs/AppleARKit.ini
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Intermediate/Config/CoalescedSourceConfigs/FMODStudio.ini
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Platforms/BP_ActivateBridge_Auto4.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Platforms/BP_ActivateBridge_Auto5.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/TrackSpline_Auto3.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_ActivateBridge_2019-01-13-17-58-04.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_ActivateBridge_2019-01-13-18-03-25.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_ActivateBridge_2019-01-13-18-09-07.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_ActivateBridge_2019-01-13-18-14-48.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_ActivateBridge_2019-01-13-18-25-15.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_ActivateBridge_2019-01-13-19-01-53.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_ActivateBridge_2019-01-13-19-06-56.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_ActivateBridge_2019-01-13-19-12-06.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_ActivateBridge_2019-01-13-19-32-28.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_ActivateBridge_2019-01-13-19-44-12.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_ActivateBridge_2019-01-13-20-01-16.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_ActivateBridge_2019-01-13-21-30-25.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_BoostPad_2019-01-13-17-45-29.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_BoostPad_2019-01-13-21-34-00.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_BoostPad_2019-01-13-21-39-33.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_BoostPad_2019-01-13-21-45-05.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_BowlingPins_2019-01-13-17-44-35.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_Coin_2019-01-13-17-42-02.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_Coin_2019-01-13-19-53-15.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_Pushers_2019-01-13-17-46-03.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/BP_Twomp_2019-01-13-17-56-05.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/Floor_400x400_2019-01-13-17-32-47.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/Funnel1_2019-01-13-20-32-09.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/Funnel1_2019-01-13-20-42-14.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/Funnel1_2019-01-13-20-52-48.uasset
+[2019.01.14-23.43.53:423][  0]SourceControl: 	Saved/Backup/Funnel1_2019-01-13-21-02-48.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/Funnel1_2019-01-13-21-14-35.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/Funnel1_2019-01-13-21-52-02.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/Funnel1_2019-01-13-22-03-16.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/FunnelFixed_2019-01-13-20-33-43.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/Gear_2019-01-13-17-48-40.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/PhysicsBallBP_2019-01-13-19-26-40.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/PhysicsBallBP_2019-01-13-19-32-28.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/PhysicsBallBP_2019-01-13-21-51-20.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/PhysicsBallBP_2019-01-13-22-03-12.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-17-50-41.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-18-00-37.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-18-10-37.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-18-16-22.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-18-29-36.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-19-04-59.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-19-14-33.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-19-32-28.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-19-57-54.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-20-16-41.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-20-27-07.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-20-42-14.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-20-52-47.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-21-14-35.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-21-20-16.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-21-25-58.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-21-52-02.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_2019-01-13-21-58-43.umap
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-18-00-37.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-18-16-22.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-19-05-00.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-19-14-34.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-19-34-13.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-19-57-54.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-20-16-42.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-21-18-54.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-21-25-59.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/RollingBPExampleMap_BuiltData_2019-01-13-21-58-43.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/TrackSpline_2019-01-13-18-29-37.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Backup/TrackSpline_2019-01-13-18-48-31.uasset
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-06B55C7F4AC834141D269CBC0630DF35/
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-734C56404179ED22E3647090CD9AE406/
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-C5C6832D4C5243948FB6C9BE7DCEBDA4/
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Funnel10DB4639C40C0E1A3A4A26C8D025D7A52.tmp
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Funnel14169B6A34831CBED22FCD3B4EE6C7ADB.tmp
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Funnel184C8574440D04FABB0BF428B0FC6B990.tmp
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Funnel18830808A4A53AB924B453D962573282E.tmp
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Funnel18D721F9D4AEFA2EF76B756851FBD6E23.tmp
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Funnel1B51B6E1D43C1BCD899DEDB933F891483.tmp
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Funnel1C71793834C314736BAB76E8C6B29A6E8.tmp
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Funnel1_Auto70DA57DAE45FBA7679B44938985EFE1BB.tmp
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Funnel1_Auto71D40E45A4834605D37D5D391BEA43C06.tmp
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Funnel1_Auto74AE05552417E312E9D549EBDF2895512.tmp
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Funnel1_Auto787B401AD4734A11440926C9D158AD091.tmp
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Funnel1_Auto7B73478C040A3C4D480E224A742641987.tmp
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Logs/BeerPongBowling-backup-2019.01.14-16.41.32.log
+[2019.01.14-23.43.53:424][  0]SourceControl: 	Saved/Logs/BeerPongBowling-backup-2019.01.14-16.43.17.log
+[2019.01.14-23.43.53:425][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.14-23.43.56:876][381]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.14-23.43.56:879][381]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.14-23.43.57:112][382]Cmd: QUIT_EDITOR
+[2019.01.14-23.43.57:134][382]LogExit: Preparing to exit.
+[2019.01.14-23.43.58:304][382]LogExit: Editor shut down
+[2019.01.14-23.43.58:306][382]LogExit: Transaction tracking system shut down
+[2019.01.14-23.43.58:529][382]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.01.14-23.43.58:530][382]LogDirectoryWatcher: A directory notification for 'Z:/Unreal/BeerPongBowling 4.21/Content/' was aborted.
+[2019.01.14-23.43.58:530][382]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2019.01.14-23.43.58:530][382]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/FMODStudio - UE4/Content/' was aborted.
+[2019.01.14-23.43.58:530][382]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.01.14-23.43.58:530][382]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.01.14-23.43.58:530][382]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.01.14-23.43.58:530][382]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.01.14-23.43.58:574][382]LogExit: Object subsystem successfully closed.
+[2019.01.14-23.43.58:644][382]LogD3D11RHI: Shutdown
+[2019.01.14-23.43.58:644][382]LogD3D11RHI: CleanupD3DDevice
+[2019.01.14-23.43.58:646][382]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.14-23.43.58:670][382]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2019.01.14-23.43.58:670][382]LogModuleManager: Shutting down and abandoning module SceneOutliner (550)
+[2019.01.14-23.43.58:670][382]LogModuleManager: Shutting down and abandoning module AddContentDialog (548)
+[2019.01.14-23.43.58:670][382]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module WidgetCarousel (547)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module EditorWidgets (544)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module CollectionManager (542)
+[2019.01.14-23.43.58:671][382]LogDirectoryWatcher: A directory notification for 'Z:/Unreal/BeerPongBowling 4.21/Content/Collections/' was aborted.
+[2019.01.14-23.43.58:671][382]LogDirectoryWatcher: A directory notification for 'Z:/Unreal/BeerPongBowling 4.21/Content/Developers/Tyler/Collections/' was aborted.
+[2019.01.14-23.43.58:671][382]LogDirectoryWatcher: A directory notification for 'Z:/Unreal/BeerPongBowling 4.21/Saved/Collections/' was aborted.
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module StatsViewer (540)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module FoliageEdit (538)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module LandscapeEditor (536)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module MeshPaintMode (534)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (532)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module ActorPickerMode (530)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module GeometryMode (528)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module TextureAlignMode (526)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module BspMode (524)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (522)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module HardwareSurvey (520)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (518)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module AutomationWorker (516)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (514)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (512)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module PlacementMode (511)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (508)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (506)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (504)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (502)
+[2019.01.14-23.43.58:671][382]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (500)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (498)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (496)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (494)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (492)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module CharacterAI (490)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module AudioCapture (488)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module SequenceRecorder (487)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module SmartSnapping (484)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module SessionServices (482)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module ViewportSnapping (480)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module ViewportInteraction (478)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module ClothPainter (476)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (475)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module LogVisualizer (472)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module IntroTutorials (470)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (469)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (466)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (464)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (462)
+[2019.01.14-23.43.58:672][382]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (461)
+[2019.01.14-23.43.59:523][382]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (458)
+[2019.01.14-23.43.59:523][382]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (456)
+[2019.01.14-23.43.59:523][382]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (454)
+[2019.01.14-23.43.59:523][382]LogModuleManager: Shutting down and abandoning module InputBindingEditor (452)
+[2019.01.14-23.43.59:523][382]LogModuleManager: Shutting down and abandoning module MergeActors (450)
+[2019.01.14-23.43.59:523][382]LogModuleManager: Shutting down and abandoning module SizeMap (448)
+[2019.01.14-23.43.59:523][382]LogModuleManager: Shutting down and abandoning module TreeMap (446)
+[2019.01.14-23.43.59:523][382]LogModuleManager: Shutting down and abandoning module ReferenceViewer (444)
+[2019.01.14-23.43.59:523][382]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (442)
+[2019.01.14-23.43.59:523][382]LogModuleManager: Shutting down and abandoning module LocalizationService (441)
+[2019.01.14-23.43.59:523][382]LogModuleManager: Shutting down and abandoning module HardwareTargeting (438)
+[2019.01.14-23.43.59:523][382]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (436)
+[2019.01.14-23.43.59:523][382]LogModuleManager: Shutting down and abandoning module UndoHistory (434)
+[2019.01.14-23.43.59:523][382]LogModuleManager: Shutting down and abandoning module XmlParser (432)
+[2019.01.14-23.43.59:524][382]LogModuleManager: Shutting down and abandoning module Blutility (430)
+[2019.01.14-23.43.59:524][382]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (428)
+[2019.01.14-23.43.59:524][382]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (427)
+[2019.01.14-23.43.59:524][382]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (424)
+[2019.01.14-23.43.59:524][382]LogModuleManager: Shutting down and abandoning module SettingsEditor (422)
+[2019.01.14-23.43.59:524][382]LogModuleManager: Shutting down and abandoning module ProjectLauncher (420)
+[2019.01.14-23.43.59:524][382]LogModuleManager: Shutting down and abandoning module SessionFrontend (418)
+[2019.01.14-23.43.59:524][382]LogModuleManager: Shutting down and abandoning module ProfilerClient (416)
+[2019.01.14-23.43.59:524][382]LogModuleManager: Shutting down and abandoning module DeviceManager (414)
+[2019.01.14-23.43.59:524][382]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (413)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module AutomationController (410)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module AutomationWindow (408)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module Layers (406)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (404)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module DetailCustomizations (402)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module PackagesDialog (400)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module Persona (398)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (397)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module AnimGraph (395)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module Kismet (392)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module ClassViewer (390)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module Toolbox (388)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module ModuleUI (386)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module MovieSceneTools (384)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module OutputLog (382)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module GammaUI (380)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module Documentation (378)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (376)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module MovieScene (374)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (372)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module LauncherPlatform (370)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module AnalyticsET (368)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module PortalServices (366)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module PortalRpc (364)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module MessagingRpc (362)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module AIModule (360)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module GameplayDebugger (359)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module AITestSuite (357)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module DesktopPlatform (354)
+[2019.01.14-23.43.59:579][382]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2019.01.14-23.43.59:692][382]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2019.01.14-23.43.59:692][382]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2019.01.14-23.43.59:692][382]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2019.01.14-23.43.59:692][382]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2019.01.14-23.43.59:692][382]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2019.01.14-23.43.59:692][382]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2019.01.14-23.43.59:692][382]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2019.01.14-23.43.59:692][382]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2019.01.14-23.43.59:692][382]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
+[2019.01.14-23.43.59:692][382]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module FMODStudioEditor (320)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2019.01.14-23.43.59:693][382]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2019.01.14-23.43.59:694][382]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2019.01.14-23.43.59:694][382]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2019.01.14-23.43.59:694][382]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2019.01.14-23.43.59:694][382]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (270)
+[2019.01.14-23.43.59:694][382]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (268)
+[2019.01.14-23.43.59:694][382]LogModuleManager: Shutting down and abandoning module PhysXVehicles (266)
+[2019.01.14-23.43.59:694][382]LogModuleManager: Shutting down and abandoning module OculusEditor (264)
+[2019.01.14-23.43.59:695][382]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (262)
+[2019.01.14-23.43.59:695][382]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (260)
+[2019.01.14-23.43.59:695][382]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (258)
+[2019.01.14-23.43.59:695][382]LogModuleManager: Shutting down and abandoning module UdpMessaging (256)
+[2019.01.14-23.43.59:796][382]LogModuleManager: Shutting down and abandoning module TcpMessaging (254)
+[2019.01.14-23.43.59:897][382]LogModuleManager: Shutting down and abandoning module FMODStudio (252)
+[2019.01.14-23.44.00:096][382]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2019.01.14-23.44.00:096][382]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2019.01.14-23.44.00:096][382]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2019.01.14-23.44.00:096][382]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2019.01.14-23.44.00:096][382]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2019.01.14-23.44.00:096][382]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2019.01.14-23.44.00:097][382]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.01.14-23.44.00:097][382]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2019.01.14-23.44.00:097][382]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2019.01.14-23.44.00:097][382]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2019.01.14-23.44.00:099][382]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2019.01.14-23.44.00:099][382]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.01.14-23.44.00:099][382]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.01.14-23.44.00:100][382]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.01.14-23.44.00:100][382]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.01.14-23.44.00:100][382]LogModuleManager: Shutting down and abandoning module Media (221)
+[2019.01.14-23.44.00:105][382]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2019.01.14-23.44.00:105][382]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2019.01.14-23.44.00:105][382]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2019.01.14-23.44.00:105][382]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2019.01.14-23.44.00:105][382]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2019.01.14-23.44.00:105][382]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2019.01.14-23.44.00:105][382]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2019.01.14-23.44.00:105][382]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2019.01.14-23.44.00:105][382]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2019.01.14-23.44.00:105][382]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2019.01.14-23.44.00:105][382]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2019.01.14-23.44.00:105][382]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2019.01.14-23.44.00:105][382]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2019.01.14-23.44.00:105][382]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2019.01.14-23.44.00:105][382]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2019.01.14-23.44.00:105][382]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2019.01.14-23.44.00:108][382]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.01.14-23.44.00:108][382]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.01.14-23.44.00:108][382]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.01.14-23.44.00:108][382]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.01.14-23.44.00:108][382]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.01.14-23.44.00:108][382]LogModuleManager: Shutting down and abandoning module Core (172)
+[2019.01.14-23.44.00:108][382]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2019.01.14-23.44.00:108][382]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2019.01.14-23.44.00:108][382]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2019.01.14-23.44.00:108][382]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2019.01.14-23.44.00:108][382]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2019.01.14-23.44.00:108][382]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2019.01.14-23.44.00:108][382]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2019.01.14-23.44.00:108][382]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2019.01.14-23.44.00:108][382]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2019.01.14-23.44.00:108][382]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2019.01.14-23.44.00:108][382]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2019.01.14-23.44.00:462][382]LogDerivedDataCache: Shutdown
+[2019.01.14-23.44.00:462][382]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2019.01.14-23.44.00:463][382]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2019.01.14-23.44.00:464][382]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2019.01.14-23.44.00:464][382]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2019.01.14-23.44.00:464][382]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.01.14-23.44.00:464][382]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.01.14-23.44.00:464][382]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.01.14-23.44.00:464][382]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.01.14-23.44.00:464][382]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.14-23.44.00:464][382]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCE9328B9-4BA2-EB36-D376-458CD9D09FD8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=fc2e89a0458e1bd2671cb3ba85377868%7C3e2764f06f1947f5925efc0e892ed179%7C998d46ad-7082-440e-855e-1e13887f66e5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.14-23.44.00:476][382]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.01.14-23.44.00:477][382]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.14-23.44.00:477][382]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.14-23.44.00:477][382]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.14-23.44.00:477][382]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.14-23.44.00:477][382]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.14-23.44.00:477][382]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.14-23.44.00:477][382]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.14-23.44.00:477][382]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.14-23.44.00:477][382]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.14-23.44.00:478][382]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.14-23.44.00:478][382]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.14-23.44.00:478][382]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.14-23.44.00:478][382]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.14-23.44.00:478][382]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.14-23.44.00:478][382]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.14-23.44.00:478][382]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.14-23.44.00:478][382]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.14-23.44.00:478][382]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.14-23.44.00:481][382]LogExit: Exiting.
+[2019.01.14-23.44.00:492][382]Log file closed, 01/14/19 16:44:00
